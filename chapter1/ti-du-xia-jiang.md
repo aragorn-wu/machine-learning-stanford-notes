@@ -1,2 +1,4 @@
-gradient descent
+* gradient descent
+
+
 
