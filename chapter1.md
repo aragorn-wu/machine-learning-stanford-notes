@@ -4,12 +4,15 @@
 2. 相关术语：
 
 3. M:demote the number of training examples
+
 4. X:input variables/feature
 5. Y:out put/target varible
 6. \(X,Y\):one training example
 7. ![](/assets/Screenshot from 2017-07-18 16-57-44.png)
-8. 
 
 
 
+
+
+![](/assets/Screenshot from 2017-07-18 17-12-15.png)
 
