@@ -1,18 +1,13 @@
 # 第二章 监督学习应用
 
-1. 无人驾驶汽车。机器向司机学习。
-2. 相关术语：
+1. 相关术语：
+2. M:demote the number of training examples
 
-3. M:demote the number of training examples
+3. X:input variables/feature
 
-4. X:input variables/feature
-5. Y:out put/target varible
-6. \(X,Y\):one training example
-7. ![](/assets/Screenshot from 2017-07-18 16-57-44.png)
-
-
-
-
+4. Y:out put/target varible
+5. \(X,Y\):one training example
+6. ![](/assets/Screenshot from 2017-07-18 16-57-44.png)
 
 ![](/assets/Screenshot from 2017-07-18 17-12-15.png)
 
