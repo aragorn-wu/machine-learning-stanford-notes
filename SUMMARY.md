@@ -11,4 +11,5 @@
   * [Linear Regression with One Variable](chapter1/linear-regression-with-one-variable.md)
     * [Model and Cost Function](chapter1/linear-regression-with-one-variable/model-and-cost-function.md)
       * [Cost Function](chapter1/linear-regression-with-one-variable/model-and-cost-function/cost-function.md)
+      * [gradient descent](chapter1/linear-regression-with-one-variable/model-and-cost-function/gradient-descent.md)
 
