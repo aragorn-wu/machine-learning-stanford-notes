@@ -10,4 +10,5 @@
       * [监督学习应用](chapter1/jian-du-xue-xi/jian-du-xue-xi-ying-yong.md)
   * [Linear Regression with One Variable](chapter1/linear-regression-with-one-variable.md)
     * [Model and Cost Function](chapter1/linear-regression-with-one-variable/model-and-cost-function.md)
+      * Cost Function
 
